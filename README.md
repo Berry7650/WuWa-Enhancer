@@ -16,7 +16,7 @@ Custom Unreal Engine 4 config files to improve **performance and stability** whe
 
 ## 🔧 Optimization Goals
 
-- 🚀 Smooth combat performance (30–60 FPS)
+- 🚀 Smooth combat performance ( 20-30 FPS)
 - 🔋 Reduced thermal throttling and power draw
 - 🖼️ Maintain visual sharpness with upscaling
 - 🔄 Balance between aesthetics and efficiency
@@ -48,9 +48,9 @@ Custom Unreal Engine 4 config files to improve **performance and stability** whe
 
 | Situation                | Estimated FPS |
 |--------------------------|----------------|
-| Exploration / dialogue   | 40–60 FPS       |
-| Combat (normal)          | 35–45 FPS       |
-| Combat (high FX/heavy)   | 25–35 FPS       |
+| Exploration / dialogue   | 40+ FPS       |
+| Combat (normal)          | 20-30 FPS       |
+| Combat in room  (high FX/heavy)   | 25–35 FPS       |
 
 > Performance is measured with `r.MobileContentScaleFactor=0.7` + FidelityFX FSR.
 
